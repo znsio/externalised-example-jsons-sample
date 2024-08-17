@@ -1,0 +1,10 @@
+{
+  "http-request": {
+    "method": "GET",
+    "path": "/znsio/specmatic-documentation/employees/100"
+  },
+  "http-response": {
+    "status": 404
+  }
+}
+

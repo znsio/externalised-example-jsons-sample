@@ -1,0 +1,16 @@
+{
+  "http-request": {
+    "method": "POST",
+    "path": "/znsio/specmatic-documentation/employees",
+    "body": {
+      "id": 70,
+      "name": "Jill Doe",
+      "department": "Engineering",
+      "designation": "Director"
+    }
+  },
+  "http-response": {
+    "status": 201
+  }
+}
+

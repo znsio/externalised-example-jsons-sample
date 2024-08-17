@@ -1,0 +1,10 @@
+{
+  "http-request": {
+    "method": "GET",
+    "path": "/znsio/specmatic-documentation/employees?designation=Developer"
+  },
+  "http-response": {
+    "status": 200
+  }
+}
+
